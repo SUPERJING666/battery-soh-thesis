@@ -1,0 +1,20 @@
+{
+  "run_id": "holdout__fair__joint__CV__Early__s2025",
+  "stage": "CV",
+  "model": "Early",
+  "device": "cpu",
+  "batch_size": 1,
+  "warmup": 20,
+  "repeats": 200,
+  "parameters": 19329,
+  "serialized_bytes": 81534,
+  "process_baseline_rss_bytes": 673787904,
+  "process_peak_rss_bytes": 677240832,
+  "rss_increment_bytes": 3452928,
+  "gpu_peak_allocated_bytes": null,
+  "forward_median_ms": 0.18470000941306353,
+  "forward_p95_ms": 0.2482000272721052,
+  "preprocessing_and_forward_median_ms": 1.2601499911397696,
+  "preprocessing_and_forward_p95_ms": 1.9120899523841217,
+  "structure_summary": "19329 parameters"
+}

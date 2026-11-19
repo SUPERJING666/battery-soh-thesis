@@ -1,0 +1,22 @@
+{
+  "run_id": "holdout__fair__joint__CC__RF__s2025",
+  "stage": "CC",
+  "model": "RF",
+  "device": "cpu",
+  "batch_size": 1,
+  "warmup": 20,
+  "repeats": 200,
+  "parameters": null,
+  "serialized_bytes": 125350163,
+  "process_baseline_rss_bytes": 673783808,
+  "process_peak_rss_bytes": 874950656,
+  "rss_increment_bytes": 201166848,
+  "gpu_peak_allocated_bytes": null,
+  "forward_median_ms": 13.028200017288327,
+  "forward_p95_ms": 13.809739984571932,
+  "preprocessing_and_forward_median_ms": 14.073000027565286,
+  "preprocessing_and_forward_p95_ms": 15.052990001277067,
+  "tree_count": 100,
+  "tree_nodes": 1740592,
+  "structure_summary": "100 trees / 1740592 nodes"
+}

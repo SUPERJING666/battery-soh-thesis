@@ -1,0 +1,105 @@
+{
+  "run_id": "ref15__temp35__RE__s2027",
+  "reference": 15,
+  "stage": "RE",
+  "seed": 2027,
+  "scenario": "temp35",
+  "limitations": [
+    "Wasserstein source selection + TCN/BiLSTM/attention is a public-description comparator, not original SSTL reproduction.",
+    "Uses only unlabeled target adaptation cells for distribution distances; no target labels used in fitting.",
+    "Closest 50% of source training cells selected; TCN 16 channels and BiLSTM 16 units are explicit local choices.",
+    "No unknown original target fine-tuning schedule is invented."
+  ],
+  "adaptation_ids": [
+    "35-05_1-#2"
+  ],
+  "test_ids": [
+    "35-05_1-#1",
+    "35-05_1-#3"
+  ],
+  "selected_source_ids": [
+    "25-05_1-#2",
+    "25-05_1-#17",
+    "25-05_1-#5",
+    "25-05_1-#15",
+    "25-05_1-#14",
+    "25-05_1-#3",
+    "25-05_1-#10",
+    "25-05_1-#13"
+  ],
+  "source_distance_ranking": [
+    [
+      1.1014615140031985,
+      "25-05_1-#1"
+    ],
+    [
+      0.961994610091833,
+      "25-05_1-#10"
+    ],
+    [
+      1.1178505221393402,
+      "25-05_1-#11"
+    ],
+    [
+      1.036084124527629,
+      "25-05_1-#12"
+    ],
+    [
+      0.9643695580018073,
+      "25-05_1-#13"
+    ],
+    [
+      0.9170867544523537,
+      "25-05_1-#14"
+    ],
+    [
+      0.9170516240186636,
+      "25-05_1-#15"
+    ],
+    [
+      0.9755834276818663,
+      "25-05_1-#16"
+    ],
+    [
+      0.8461657965034334,
+      "25-05_1-#17"
+    ],
+    [
+      1.046822940942725,
+      "25-05_1-#18"
+    ],
+    [
+      0.8052467414471179,
+      "25-05_1-#2"
+    ],
+    [
+      0.9337108941436987,
+      "25-05_1-#3"
+    ],
+    [
+      0.9828699953694567,
+      "25-05_1-#4"
+    ],
+    [
+      0.8835958365380369,
+      "25-05_1-#5"
+    ],
+    [
+      1.036930512083393,
+      "25-05_1-#7"
+    ],
+    [
+      1.5389275333792225,
+      "25-05_1-#9"
+    ]
+  ],
+  "source_code_sha256": "fb2f2da2e55bf6de7f06d0702e3f1003994b9555290e14b8968923ab4472dbea",
+  "status": "adapted_public_description_not_exact_reproduction",
+  "metrics": {
+    "n": 579,
+    "mse": 0.0011942197213987507,
+    "rmse_pp": 3.45574843036751,
+    "mae_pp": 3.1554740168490802,
+    "r2": 0.6130143909298102
+  }
+}

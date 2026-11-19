@@ -1,0 +1,6 @@
+{
+  "CC": "V",
+  "RE": "V",
+  "CV": "mA",
+  "basis": "Saved initial CV magnitudes approximately 875/1750/3500 match 3.5 Ah times 0.25/0.5/1 C in mA. Factor 1/1000 for A display; standardized training inputs and relative-noise numerical results are unchanged."
+}

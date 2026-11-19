@@ -1,0 +1,22 @@
+{
+  "run_id": "holdout__fair__joint__CV__GBDT__s2025",
+  "stage": "CV",
+  "model": "GBDT",
+  "device": "cpu",
+  "batch_size": 1,
+  "warmup": 20,
+  "repeats": 200,
+  "parameters": null,
+  "serialized_bytes": 136319,
+  "process_baseline_rss_bytes": 674185216,
+  "process_peak_rss_bytes": 674861056,
+  "rss_increment_bytes": 675840,
+  "gpu_peak_allocated_bytes": null,
+  "forward_median_ms": 0.0780500122345984,
+  "forward_p95_ms": 0.15252998855430594,
+  "preprocessing_and_forward_median_ms": 0.9618500189390033,
+  "preprocessing_and_forward_p95_ms": 1.6873550368472932,
+  "tree_count": 100,
+  "tree_nodes": 1500,
+  "structure_summary": "100 trees / 1500 nodes"
+}

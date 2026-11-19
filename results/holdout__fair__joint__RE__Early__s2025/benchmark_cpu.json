@@ -1,0 +1,20 @@
+{
+  "run_id": "holdout__fair__joint__RE__Early__s2025",
+  "stage": "RE",
+  "model": "Early",
+  "device": "cpu",
+  "batch_size": 1,
+  "warmup": 20,
+  "repeats": 200,
+  "parameters": 19329,
+  "serialized_bytes": 81534,
+  "process_baseline_rss_bytes": 674074624,
+  "process_peak_rss_bytes": 677453824,
+  "rss_increment_bytes": 3379200,
+  "gpu_peak_allocated_bytes": null,
+  "forward_median_ms": 0.18679999629966915,
+  "forward_p95_ms": 0.36524003953672923,
+  "preprocessing_and_forward_median_ms": 1.2781000114046037,
+  "preprocessing_and_forward_p95_ms": 1.7487350211013097,
+  "structure_summary": "19329 parameters"
+}

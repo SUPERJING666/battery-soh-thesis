@@ -1,0 +1,22 @@
+{
+  "run_id": "holdout__fair__joint__CC__XGBoost__s2025",
+  "stage": "CC",
+  "model": "XGBoost",
+  "device": "cpu",
+  "batch_size": 1,
+  "warmup": 20,
+  "repeats": 200,
+  "parameters": null,
+  "serialized_bytes": 421624,
+  "process_baseline_rss_bytes": 674029568,
+  "process_peak_rss_bytes": 800456704,
+  "rss_increment_bytes": 126427136,
+  "gpu_peak_allocated_bytes": null,
+  "forward_median_ms": 0.19285001326352358,
+  "forward_p95_ms": 0.3787700232351196,
+  "preprocessing_and_forward_median_ms": 1.40685003134422,
+  "preprocessing_and_forward_p95_ms": 1.9016699865460396,
+  "tree_count": 100,
+  "tree_nodes": 10348,
+  "structure_summary": "100 trees / 10348 nodes"
+}

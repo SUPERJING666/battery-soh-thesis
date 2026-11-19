@@ -1,0 +1,20 @@
+{
+  "run_id": "holdout__fair__joint__RE__NN__s2025",
+  "stage": "RE",
+  "model": "NN",
+  "device": "cpu",
+  "batch_size": 1,
+  "warmup": 20,
+  "repeats": 200,
+  "parameters": 701,
+  "serialized_bytes": 18757,
+  "process_baseline_rss_bytes": 674742272,
+  "process_peak_rss_bytes": 675061760,
+  "rss_increment_bytes": 319488,
+  "gpu_peak_allocated_bytes": null,
+  "forward_median_ms": 0.031100003980100155,
+  "forward_p95_ms": 0.073569978121668,
+  "preprocessing_and_forward_median_ms": 0.9196499886456877,
+  "preprocessing_and_forward_p95_ms": 1.5100950229680161,
+  "structure_summary": "701 parameters"
+}

@@ -1,0 +1,22 @@
+{
+  "run_id": "holdout__fair__joint__RE__GBDT__s2025",
+  "stage": "RE",
+  "model": "GBDT",
+  "device": "cpu",
+  "batch_size": 1,
+  "warmup": 20,
+  "repeats": 200,
+  "parameters": null,
+  "serialized_bytes": 136319,
+  "process_baseline_rss_bytes": 674406400,
+  "process_peak_rss_bytes": 675229696,
+  "rss_increment_bytes": 823296,
+  "gpu_peak_allocated_bytes": null,
+  "forward_median_ms": 0.08029997115954757,
+  "forward_p95_ms": 0.20262502075638586,
+  "preprocessing_and_forward_median_ms": 0.9713999752420932,
+  "preprocessing_and_forward_p95_ms": 1.6070650104666129,
+  "tree_count": 100,
+  "tree_nodes": 1500,
+  "structure_summary": "100 trees / 1500 nodes"
+}

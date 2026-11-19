@@ -1,0 +1,19 @@
+{
+  "protocol_version": "corrected_v1",
+  "seeds": [2025, 2026, 2027, 2028, 2029],
+  "split_seed": 2025,
+  "capacity_reference_mAh": 3500,
+  "feature_window": [1, 150],
+  "selected_features_per_stage": 3,
+  "neural": {"epochs": 200, "patience": 25, "batch_size": 512, "lr": 0.001, "dropout": 0.1},
+  "cv": {"folds": 5, "training_seed": 2025, "inner_validation_fraction": 0.2},
+  "noise_fractions": [0.0, 0.005, 0.01, 0.02],
+  "permutation_repeats": 20,
+  "notes": [
+    "The five seeds are crossed with stages on the fixed holdout and domain-shift tasks; five-fold group CV uses seed 2025 to separate fold variation from training-seed variation.",
+    "512 batch size and train-label mean output bias are explicit new training settings; historical TensorFlow defaults are not claimed to be unchanged.",
+    "All neural models use training/validation sets only; traditional models do not concatenate validation data into training.",
+    "Legacy track keeps original input availability; fair track supplies physical temperature and charging C-rate equally to all models.",
+    "A model run is not accepted until its split, feature selection, scaler, predictions, and checkpoint are saved."
+  ]
+}

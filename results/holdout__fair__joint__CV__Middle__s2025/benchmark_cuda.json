@@ -1,0 +1,19 @@
+{
+  "run_id": "holdout__fair__joint__CV__Middle__s2025",
+  "stage": "CV",
+  "model": "Middle",
+  "device": "cuda",
+  "batch_size": 1,
+  "warmup": 20,
+  "repeats": 200,
+  "parameters": 17441,
+  "serialized_bytes": 74292,
+  "process_baseline_rss_bytes": 673865728,
+  "process_peak_rss_bytes": 1040953344,
+  "rss_increment_bytes": 367087616,
+  "gpu_peak_allocated_bytes": 36077056,
+  "forward_median_ms": 0.8845499833114445,
+  "forward_p95_ms": 1.6550700267544016,
+  "preprocessing_and_forward_median_ms": 2.004849986406043,
+  "preprocessing_and_forward_p95_ms": 3.1336299813119686
+}

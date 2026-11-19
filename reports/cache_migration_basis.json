@@ -1,0 +1,9 @@
+{
+  "approved_current_code_hash": "0148cc60f9d837456067a35f54bdb091425e168ea1278ada44c1a9de11f99fd3",
+  "previous_hashes": [
+    "24291fb4b93213b09708318874ae604fca519d2a23d96150ac75a67749d8fd7d",
+    "922e69350373118adc24f97a6cc09d7e15c090b4b2654656aaa507236ddea136"
+  ],
+  "basis": "V1->V2 masks source-training-constant conditions; only nonconstant-condition V1 runs are reused after exact fitted-statistic checks. V2->current changes only cache provenance guard.",
+  "neural_training_settings_unchanged": true
+}

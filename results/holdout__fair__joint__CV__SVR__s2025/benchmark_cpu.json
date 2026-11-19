@@ -1,0 +1,21 @@
+{
+  "run_id": "holdout__fair__joint__CV__SVR__s2025",
+  "stage": "CV",
+  "model": "SVR",
+  "device": "cpu",
+  "batch_size": 1,
+  "warmup": 20,
+  "repeats": 200,
+  "parameters": null,
+  "serialized_bytes": 1647,
+  "process_baseline_rss_bytes": 673746944,
+  "process_peak_rss_bytes": 674230272,
+  "rss_increment_bytes": 483328,
+  "gpu_peak_allocated_bytes": null,
+  "forward_median_ms": 0.03809999907389283,
+  "forward_p95_ms": 0.08254498534370208,
+  "preprocessing_and_forward_median_ms": 0.9380000119563192,
+  "preprocessing_and_forward_p95_ms": 1.5291049960069356,
+  "support_vectors": 12,
+  "structure_summary": "12 support vectors"
+}

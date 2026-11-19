@@ -1,0 +1,96 @@
+{
+  "passed": true,
+  "parity_models": [
+    {
+      "model": "CNN",
+      "stage": "CC",
+      "reference": "independent NumPy evaluation of saved Keras H5 weights/config",
+      "max_abs_forward_difference": 0.0,
+      "parameters": 19329
+    },
+    {
+      "model": "CNN",
+      "stage": "CV",
+      "reference": "independent NumPy evaluation of saved Keras H5 weights/config",
+      "max_abs_forward_difference": 5.960464477539063e-08,
+      "parameters": 19329
+    },
+    {
+      "model": "CNN",
+      "stage": "RE",
+      "reference": "independent NumPy evaluation of saved Keras H5 weights/config",
+      "max_abs_forward_difference": 0.0,
+      "parameters": 19329
+    },
+    {
+      "model": "Early",
+      "stage": "CC",
+      "reference": "independent NumPy evaluation of saved Keras H5 weights/config",
+      "max_abs_forward_difference": 1.1920928955078125e-07,
+      "parameters": 19329
+    },
+    {
+      "model": "Early",
+      "stage": "CV",
+      "reference": "independent NumPy evaluation of saved Keras H5 weights/config",
+      "max_abs_forward_difference": 5.960464477539063e-08,
+      "parameters": 19329
+    },
+    {
+      "model": "Early",
+      "stage": "RE",
+      "reference": "independent NumPy evaluation of saved Keras H5 weights/config",
+      "max_abs_forward_difference": 5.960464477539063e-08,
+      "parameters": 19329
+    },
+    {
+      "model": "Middle",
+      "stage": "CC",
+      "reference": "independent NumPy evaluation of saved Keras H5 weights/config",
+      "max_abs_forward_difference": 5.960464477539063e-08,
+      "parameters": 17377
+    },
+    {
+      "model": "Middle",
+      "stage": "CV",
+      "reference": "independent NumPy evaluation of saved Keras H5 weights/config",
+      "max_abs_forward_difference": 0.0,
+      "parameters": 17377
+    },
+    {
+      "model": "Middle",
+      "stage": "RE",
+      "reference": "independent NumPy evaluation of saved Keras H5 weights/config",
+      "max_abs_forward_difference": 5.960464477539063e-08,
+      "parameters": 17377
+    },
+    {
+      "model": "Late",
+      "stage": "CC",
+      "reference": "independent NumPy evaluation of saved Keras H5 weights/config",
+      "max_abs_forward_difference": 2.384185791015625e-07,
+      "parameters": 14307
+    },
+    {
+      "model": "Late",
+      "stage": "CV",
+      "reference": "independent NumPy evaluation of saved Keras H5 weights/config",
+      "max_abs_forward_difference": 1.1920928955078125e-07,
+      "parameters": 14307
+    },
+    {
+      "model": "Late",
+      "stage": "RE",
+      "reference": "independent NumPy evaluation of saved Keras H5 weights/config",
+      "max_abs_forward_difference": 1.1920928955078125e-07,
+      "parameters": 14307
+    }
+  ],
+  "no_test_labels_used_in_selection_or_scaling": true,
+  "cv_test_partition_covers_every_sample_once": true,
+  "historical_RE_Max_equals_RE_1_for_all_samples": true,
+  "source_constant_conditions_masked_without_target_labels": true,
+  "fair_cnn_and_early_static_input_gradient_paths_verified": true,
+  "archived_early_tail_discard_bug_reproduced": true,
+  "source_archives_unchanged": true
+}

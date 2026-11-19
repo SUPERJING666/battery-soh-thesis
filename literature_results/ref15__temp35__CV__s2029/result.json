@@ -1,0 +1,105 @@
+{
+  "run_id": "ref15__temp35__CV__s2029",
+  "reference": 15,
+  "stage": "CV",
+  "seed": 2029,
+  "scenario": "temp35",
+  "limitations": [
+    "Wasserstein source selection + TCN/BiLSTM/attention is a public-description comparator, not original SSTL reproduction.",
+    "Uses only unlabeled target adaptation cells for distribution distances; no target labels used in fitting.",
+    "Closest 50% of source training cells selected; TCN 16 channels and BiLSTM 16 units are explicit local choices.",
+    "No unknown original target fine-tuning schedule is invented."
+  ],
+  "adaptation_ids": [
+    "35-05_1-#2"
+  ],
+  "test_ids": [
+    "35-05_1-#1",
+    "35-05_1-#3"
+  ],
+  "selected_source_ids": [
+    "25-05_1-#13",
+    "25-05_1-#3",
+    "25-05_1-#4",
+    "25-05_1-#17",
+    "25-05_1-#5",
+    "25-05_1-#10",
+    "25-05_1-#15",
+    "25-05_1-#9"
+  ],
+  "source_distance_ranking": [
+    [
+      3.875454555119853,
+      "25-05_1-#1"
+    ],
+    [
+      2.7963818985093454,
+      "25-05_1-#10"
+    ],
+    [
+      3.4856724042912597,
+      "25-05_1-#11"
+    ],
+    [
+      3.508347114664833,
+      "25-05_1-#12"
+    ],
+    [
+      2.2664962132137485,
+      "25-05_1-#13"
+    ],
+    [
+      3.0380649625208562,
+      "25-05_1-#14"
+    ],
+    [
+      2.8127877612406706,
+      "25-05_1-#15"
+    ],
+    [
+      3.50555128674025,
+      "25-05_1-#16"
+    ],
+    [
+      2.744125084454304,
+      "25-05_1-#17"
+    ],
+    [
+      3.0250189222320087,
+      "25-05_1-#18"
+    ],
+    [
+      3.2836299309781736,
+      "25-05_1-#2"
+    ],
+    [
+      2.667290251839047,
+      "25-05_1-#3"
+    ],
+    [
+      2.6825542267067086,
+      "25-05_1-#4"
+    ],
+    [
+      2.779893943963635,
+      "25-05_1-#5"
+    ],
+    [
+      3.20726181661403,
+      "25-05_1-#7"
+    ],
+    [
+      3.0207862271898107,
+      "25-05_1-#9"
+    ]
+  ],
+  "source_code_sha256": "fb2f2da2e55bf6de7f06d0702e3f1003994b9555290e14b8968923ab4472dbea",
+  "status": "adapted_public_description_not_exact_reproduction",
+  "metrics": {
+    "n": 579,
+    "mse": 0.008479788071843587,
+    "rmse_pp": 9.208576476222364,
+    "mae_pp": 8.179484735671421,
+    "r2": -1.747866153076874
+  }
+}

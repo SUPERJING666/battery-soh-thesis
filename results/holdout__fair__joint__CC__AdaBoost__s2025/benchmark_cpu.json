@@ -1,0 +1,22 @@
+{
+  "run_id": "holdout__fair__joint__CC__AdaBoost__s2025",
+  "stage": "CC",
+  "model": "AdaBoost",
+  "device": "cpu",
+  "batch_size": 1,
+  "warmup": 20,
+  "repeats": 200,
+  "parameters": null,
+  "serialized_bytes": 28216,
+  "process_baseline_rss_bytes": 673681408,
+  "process_peak_rss_bytes": 674172928,
+  "rss_increment_bytes": 491520,
+  "gpu_peak_allocated_bytes": null,
+  "forward_median_ms": 0.6931000098120421,
+  "forward_p95_ms": 1.2966150330612436,
+  "preprocessing_and_forward_median_ms": 1.6372500103898346,
+  "preprocessing_and_forward_p95_ms": 2.4851299967849623,
+  "tree_count": 20,
+  "tree_nodes": 300,
+  "structure_summary": "20 trees / 300 nodes"
+}

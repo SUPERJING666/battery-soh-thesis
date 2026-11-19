@@ -1,0 +1,10 @@
+{
+  "original_training_code_hash": "24291fb4b93213b09708318874ae604fca519d2a23d96150ac75a67749d8fd7d",
+  "current_code_hash": "c3f94b1e9324d923ecf440720a4da4cb57016b2dc8b6122d8b68a316933c0b7e",
+  "basis": "Recorded transform statistics and the reused model graph are unchanged. V1 requires nonconstant conditions; V2 retains its recorded mask. Fair CNN-with-conditions and all fair Early models are explicitly excluded from reuse and retrained in V3.",
+  "constant_condition_mask": [
+    false,
+    false
+  ],
+  "retrained": false
+}

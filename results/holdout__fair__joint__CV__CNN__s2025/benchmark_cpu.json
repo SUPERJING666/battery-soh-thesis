@@ -1,0 +1,20 @@
+{
+  "run_id": "holdout__fair__joint__CV__CNN__s2025",
+  "stage": "CV",
+  "model": "CNN",
+  "device": "cpu",
+  "batch_size": 1,
+  "warmup": 20,
+  "repeats": 200,
+  "parameters": 19457,
+  "serialized_bytes": 82046,
+  "process_baseline_rss_bytes": 673275904,
+  "process_peak_rss_bytes": 677158912,
+  "rss_increment_bytes": 3883008,
+  "gpu_peak_allocated_bytes": null,
+  "forward_median_ms": 0.2105500316247344,
+  "forward_p95_ms": 0.3632850246503947,
+  "preprocessing_and_forward_median_ms": 1.358650013571605,
+  "preprocessing_and_forward_p95_ms": 2.0303699740907177,
+  "structure_summary": "19457 parameters"
+}

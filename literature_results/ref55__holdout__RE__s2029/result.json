@@ -1,0 +1,37 @@
+{
+  "run_id": "ref55__holdout__RE__s2029",
+  "reference": 55,
+  "stage": "RE",
+  "seed": 2029,
+  "scenario": "holdout",
+  "limitations": [
+    "Public abstract confirms multiscale attention + statistical features + XGBoost; exact architecture/training and Bayesian search unavailable.",
+    "Explicit local comparator: kernels 3/5/7, two conv layers per branch, global pooling, channel SE attention.",
+    "Reported XGBoost parameters used as fixed values; this is not a reproduction of the paper Bayesian optimization."
+  ],
+  "test_ids": [
+    "25-05_1-#12",
+    "25-05_1-#14",
+    "25-05_1-#16",
+    "25-05_1-#6",
+    "25-05_1-#7",
+    "25-1_1-#7",
+    "25-1_1-#8",
+    "35-05_1-#3",
+    "45-05_1-#11",
+    "45-05_1-#18",
+    "45-05_1-#25",
+    "45-05_1-#26",
+    "45-05_1-#4",
+    "45-05_1-#6"
+  ],
+  "source_code_sha256": "a615b18d79368c43f69cf0f64223a75404c473fcdc796b4eab29a698d3cf4910",
+  "status": "adapted_public_description_not_exact_reproduction",
+  "metrics": {
+    "n": 4040,
+    "mse": 8.466540252629316e-05,
+    "rmse_pp": 0.920138046851086,
+    "mae_pp": 0.6648168012324427,
+    "r2": 0.9775829005941414
+  }
+}

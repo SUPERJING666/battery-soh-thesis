@@ -1,0 +1,3682 @@
+{
+  "verified_core_runs": [
+    {
+      "run_id": "cv0__fair__joint__CC__CNN__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv0__fair__joint__CC__Early__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv0__fair__joint__CC__Late__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv0__fair__joint__CC__Middle__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv0__fair__joint__CC__XGBoost__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv0__fair__joint__CV__CNN__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv0__fair__joint__CV__Early__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv0__fair__joint__CV__Late__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv0__fair__joint__CV__Middle__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv0__fair__joint__CV__XGBoost__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv0__fair__joint__RE__CNN__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv0__fair__joint__RE__Early__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv0__fair__joint__RE__Late__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv0__fair__joint__RE__Middle__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv0__fair__joint__RE__XGBoost__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv1__fair__joint__CC__CNN__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv1__fair__joint__CC__Early__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv1__fair__joint__CC__Late__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv1__fair__joint__CC__Middle__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv1__fair__joint__CC__XGBoost__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv1__fair__joint__CV__CNN__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv1__fair__joint__CV__Early__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv1__fair__joint__CV__Late__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv1__fair__joint__CV__Middle__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv1__fair__joint__CV__XGBoost__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv1__fair__joint__RE__CNN__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv1__fair__joint__RE__Early__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv1__fair__joint__RE__Late__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv1__fair__joint__RE__Middle__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv1__fair__joint__RE__XGBoost__s2025",
+      "prediction_rows": 4456,
+      "verified": true
+    },
+    {
+      "run_id": "cv2__fair__joint__CC__CNN__s2025",
+      "prediction_rows": 4454,
+      "verified": true
+    },
+    {
+      "run_id": "cv2__fair__joint__CC__Early__s2025",
+      "prediction_rows": 4454,
+      "verified": true
+    },
+    {
+      "run_id": "cv2__fair__joint__CC__Late__s2025",
+      "prediction_rows": 4454,
+      "verified": true
+    },
+    {
+      "run_id": "cv2__fair__joint__CC__Middle__s2025",
+      "prediction_rows": 4454,
+      "verified": true
+    },
+    {
+      "run_id": "cv2__fair__joint__CC__XGBoost__s2025",
+      "prediction_rows": 4454,
+      "verified": true
+    },
+    {
+      "run_id": "cv2__fair__joint__CV__CNN__s2025",
+      "prediction_rows": 4454,
+      "verified": true
+    },
+    {
+      "run_id": "cv2__fair__joint__CV__Early__s2025",
+      "prediction_rows": 4454,
+      "verified": true
+    },
+    {
+      "run_id": "cv2__fair__joint__CV__Late__s2025",
+      "prediction_rows": 4454,
+      "verified": true
+    },
+    {
+      "run_id": "cv2__fair__joint__CV__Middle__s2025",
+      "prediction_rows": 4454,
+      "verified": true
+    },
+    {
+      "run_id": "cv2__fair__joint__CV__XGBoost__s2025",
+      "prediction_rows": 4454,
+      "verified": true
+    },
+    {
+      "run_id": "cv2__fair__joint__RE__CNN__s2025",
+      "prediction_rows": 4454,
+      "verified": true
+    },
+    {
+      "run_id": "cv2__fair__joint__RE__Early__s2025",
+      "prediction_rows": 4454,
+      "verified": true
+    },
+    {
+      "run_id": "cv2__fair__joint__RE__Late__s2025",
+      "prediction_rows": 4454,
+      "verified": true
+    },
+    {
+      "run_id": "cv2__fair__joint__RE__Middle__s2025",
+      "prediction_rows": 4454,
+      "verified": true
+    },
+    {
+      "run_id": "cv2__fair__joint__RE__XGBoost__s2025",
+      "prediction_rows": 4454,
+      "verified": true
+    },
+    {
+      "run_id": "cv3__fair__joint__CC__CNN__s2025",
+      "prediction_rows": 4432,
+      "verified": true
+    },
+    {
+      "run_id": "cv3__fair__joint__CC__Early__s2025",
+      "prediction_rows": 4432,
+      "verified": true
+    },
+    {
+      "run_id": "cv3__fair__joint__CC__Late__s2025",
+      "prediction_rows": 4432,
+      "verified": true
+    },
+    {
+      "run_id": "cv3__fair__joint__CC__Middle__s2025",
+      "prediction_rows": 4432,
+      "verified": true
+    },
+    {
+      "run_id": "cv3__fair__joint__CC__XGBoost__s2025",
+      "prediction_rows": 4432,
+      "verified": true
+    },
+    {
+      "run_id": "cv3__fair__joint__CV__CNN__s2025",
+      "prediction_rows": 4432,
+      "verified": true
+    },
+    {
+      "run_id": "cv3__fair__joint__CV__Early__s2025",
+      "prediction_rows": 4432,
+      "verified": true
+    },
+    {
+      "run_id": "cv3__fair__joint__CV__Late__s2025",
+      "prediction_rows": 4432,
+      "verified": true
+    },
+    {
+      "run_id": "cv3__fair__joint__CV__Middle__s2025",
+      "prediction_rows": 4432,
+      "verified": true
+    },
+    {
+      "run_id": "cv3__fair__joint__CV__XGBoost__s2025",
+      "prediction_rows": 4432,
+      "verified": true
+    },
+    {
+      "run_id": "cv3__fair__joint__RE__CNN__s2025",
+      "prediction_rows": 4432,
+      "verified": true
+    },
+    {
+      "run_id": "cv3__fair__joint__RE__Early__s2025",
+      "prediction_rows": 4432,
+      "verified": true
+    },
+    {
+      "run_id": "cv3__fair__joint__RE__Late__s2025",
+      "prediction_rows": 4432,
+      "verified": true
+    },
+    {
+      "run_id": "cv3__fair__joint__RE__Middle__s2025",
+      "prediction_rows": 4432,
+      "verified": true
+    },
+    {
+      "run_id": "cv3__fair__joint__RE__XGBoost__s2025",
+      "prediction_rows": 4432,
+      "verified": true
+    },
+    {
+      "run_id": "cv4__fair__joint__CC__CNN__s2025",
+      "prediction_rows": 4452,
+      "verified": true
+    },
+    {
+      "run_id": "cv4__fair__joint__CC__Early__s2025",
+      "prediction_rows": 4452,
+      "verified": true
+    },
+    {
+      "run_id": "cv4__fair__joint__CC__Late__s2025",
+      "prediction_rows": 4452,
+      "verified": true
+    },
+    {
+      "run_id": "cv4__fair__joint__CC__Middle__s2025",
+      "prediction_rows": 4452,
+      "verified": true
+    },
+    {
+      "run_id": "cv4__fair__joint__CC__XGBoost__s2025",
+      "prediction_rows": 4452,
+      "verified": true
+    },
+    {
+      "run_id": "cv4__fair__joint__CV__CNN__s2025",
+      "prediction_rows": 4452,
+      "verified": true
+    },
+    {
+      "run_id": "cv4__fair__joint__CV__Early__s2025",
+      "prediction_rows": 4452,
+      "verified": true
+    },
+    {
+      "run_id": "cv4__fair__joint__CV__Late__s2025",
+      "prediction_rows": 4452,
+      "verified": true
+    },
+    {
+      "run_id": "cv4__fair__joint__CV__Middle__s2025",
+      "prediction_rows": 4452,
+      "verified": true
+    },
+    {
+      "run_id": "cv4__fair__joint__CV__XGBoost__s2025",
+      "prediction_rows": 4452,
+      "verified": true
+    },
+    {
+      "run_id": "cv4__fair__joint__RE__CNN__s2025",
+      "prediction_rows": 4452,
+      "verified": true
+    },
+    {
+      "run_id": "cv4__fair__joint__RE__Early__s2025",
+      "prediction_rows": 4452,
+      "verified": true
+    },
+    {
+      "run_id": "cv4__fair__joint__RE__Late__s2025",
+      "prediction_rows": 4452,
+      "verified": true
+    },
+    {
+      "run_id": "cv4__fair__joint__RE__Middle__s2025",
+      "prediction_rows": 4452,
+      "verified": true
+    },
+    {
+      "run_id": "cv4__fair__joint__RE__XGBoost__s2025",
+      "prediction_rows": 4452,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__curve__CC__CNN__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__curve__CC__CNN__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__curve__CC__CNN__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__curve__CC__CNN__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__curve__CC__CNN__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__curve__CV__CNN__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__curve__CV__CNN__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__curve__CV__CNN__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__curve__CV__CNN__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__curve__CV__CNN__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__curve__RE__CNN__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__curve__RE__CNN__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__curve__RE__CNN__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__curve__RE__CNN__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__curve__RE__CNN__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__hi__CC__MLP__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__hi__CC__MLP__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__hi__CC__MLP__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__hi__CC__MLP__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__hi__CC__MLP__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__hi__CV__MLP__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__hi__CV__MLP__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__hi__CV__MLP__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__hi__CV__MLP__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__hi__CV__MLP__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__hi__RE__MLP__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__hi__RE__MLP__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__hi__RE__MLP__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__hi__RE__MLP__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__hi__RE__MLP__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__AdaBoost__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__AdaBoost__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__AdaBoost__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__AdaBoost__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__AdaBoost__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__CNN__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__CNN__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__CNN__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__CNN__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__CNN__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__conditions__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__conditions__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__conditions__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__conditions__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__conditions__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__Early__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__Early__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__Early__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__Early__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__Early__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__GBDT__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__GBDT__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__GBDT__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__GBDT__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__GBDT__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__Late__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__Late__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__Late__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__Late__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__Late__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__Middle__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__Middle__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__Middle__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__Middle__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__Middle__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__MLP__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__MLP__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__MLP__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__MLP__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__MLP__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__NN__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__NN__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__NN__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__NN__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__NN__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__RF__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__RF__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__RF__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__RF__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__RF__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__SVR__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__SVR__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__SVR__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__SVR__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__SVR__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__XGBoost__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__XGBoost__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__XGBoost__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__XGBoost__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CC__XGBoost__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__AdaBoost__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__AdaBoost__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__AdaBoost__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__AdaBoost__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__AdaBoost__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__CNN__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__CNN__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__CNN__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__CNN__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__CNN__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__conditions__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__conditions__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__conditions__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__conditions__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__conditions__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__Early__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__Early__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__Early__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__Early__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__Early__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__GBDT__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__GBDT__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__GBDT__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__GBDT__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__GBDT__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__Late__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__Late__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__Late__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__Late__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__Late__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__Middle__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__Middle__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__Middle__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__Middle__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__Middle__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__MLP__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__MLP__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__MLP__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__MLP__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__MLP__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__NN__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__NN__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__NN__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__NN__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__NN__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__RF__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__RF__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__RF__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__RF__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__RF__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__SVR__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__SVR__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__SVR__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__SVR__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__SVR__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__XGBoost__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__XGBoost__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__XGBoost__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__XGBoost__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__CV__XGBoost__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__AdaBoost__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__AdaBoost__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__AdaBoost__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__AdaBoost__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__AdaBoost__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__CNN__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__CNN__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__CNN__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__CNN__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__CNN__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__conditions__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__conditions__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__conditions__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__conditions__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__conditions__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__Early__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__Early__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__Early__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__Early__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__Early__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__GBDT__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__GBDT__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__GBDT__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__GBDT__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__GBDT__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__Late__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__Late__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__Late__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__Late__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__Late__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__Middle__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__Middle__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__Middle__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__Middle__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__Middle__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__MLP__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__MLP__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__MLP__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__MLP__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__MLP__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__NN__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__NN__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__NN__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__NN__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__NN__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__RF__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__RF__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__RF__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__RF__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__RF__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__SVR__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__SVR__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__SVR__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__SVR__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__SVR__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__XGBoost__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__XGBoost__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__XGBoost__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__XGBoost__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__joint__RE__XGBoost__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CC__Early__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CC__Early__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CC__Early__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CC__Early__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CC__Early__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CC__Late__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CC__Late__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CC__Late__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CC__Late__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CC__Late__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CC__Middle__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CC__Middle__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CC__Middle__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CC__Middle__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CC__Middle__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CV__Early__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CV__Early__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CV__Early__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CV__Early__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CV__Early__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CV__Late__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CV__Late__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CV__Late__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CV__Late__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CV__Late__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CV__Middle__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CV__Middle__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CV__Middle__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CV__Middle__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__CV__Middle__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__RE__Early__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__RE__Early__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__RE__Early__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__RE__Early__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__RE__Early__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__RE__Late__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__RE__Late__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__RE__Late__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__RE__Late__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__RE__Late__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__RE__Middle__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__RE__Middle__s2026",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__RE__Middle__s2027",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__RE__Middle__s2028",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__fair__no_conditions__RE__Middle__s2029",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CC__AdaBoost__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CC__CNN__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CC__Early__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CC__GBDT__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CC__Late__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CC__Middle__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CC__NN__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CC__RF__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CC__SVR__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CC__XGBoost__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CV__AdaBoost__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CV__CNN__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CV__Early__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CV__GBDT__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CV__Late__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CV__Middle__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CV__NN__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CV__RF__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CV__SVR__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__CV__XGBoost__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__RE__AdaBoost__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__RE__CNN__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__RE__Early__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__RE__GBDT__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__RE__Late__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__RE__Middle__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__RE__NN__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__RE__RF__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__RE__SVR__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "holdout__legacy__joint__RE__XGBoost__s2025",
+      "prediction_rows": 4040,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__CNN__s2025",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__CNN__s2026",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__CNN__s2027",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__CNN__s2028",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__CNN__s2029",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__Early__s2025",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__Early__s2026",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__Early__s2027",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__Early__s2028",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__Early__s2029",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__Late__s2025",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__Late__s2026",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__Late__s2027",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__Late__s2028",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__Late__s2029",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__Middle__s2025",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__Middle__s2026",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__Middle__s2027",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__Middle__s2028",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__Middle__s2029",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__XGBoost__s2025",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__XGBoost__s2026",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__XGBoost__s2027",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__XGBoost__s2028",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CC__XGBoost__s2029",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__CNN__s2025",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__CNN__s2026",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__CNN__s2027",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__CNN__s2028",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__CNN__s2029",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__Early__s2025",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__Early__s2026",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__Early__s2027",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__Early__s2028",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__Early__s2029",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__Late__s2025",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__Late__s2026",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__Late__s2027",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__Late__s2028",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__Late__s2029",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__Middle__s2025",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__Middle__s2026",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__Middle__s2027",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__Middle__s2028",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__Middle__s2029",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__XGBoost__s2025",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__XGBoost__s2026",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__XGBoost__s2027",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__XGBoost__s2028",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__CV__XGBoost__s2029",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__CNN__s2025",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__CNN__s2026",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__CNN__s2027",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__CNN__s2028",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__CNN__s2029",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__Early__s2025",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__Early__s2026",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__Early__s2027",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__Early__s2028",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__Early__s2029",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__Late__s2025",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__Late__s2026",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__Late__s2027",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__Late__s2028",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__Late__s2029",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__Middle__s2025",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__Middle__s2026",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__Middle__s2027",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__Middle__s2028",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__Middle__s2029",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__XGBoost__s2025",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__XGBoost__s2026",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__XGBoost__s2027",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__XGBoost__s2028",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate025__fair__joint__RE__XGBoost__s2029",
+      "prediction_rows": 1853,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__CNN__s2025",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__CNN__s2026",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__CNN__s2027",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__CNN__s2028",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__CNN__s2029",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__Early__s2025",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__Early__s2026",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__Early__s2027",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__Early__s2028",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__Early__s2029",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__Late__s2025",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__Late__s2026",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__Late__s2027",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__Late__s2028",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__Late__s2029",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__Middle__s2025",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__Middle__s2026",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__Middle__s2027",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__Middle__s2028",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__Middle__s2029",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__XGBoost__s2025",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__XGBoost__s2026",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__XGBoost__s2027",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__XGBoost__s2028",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CC__XGBoost__s2029",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__CNN__s2025",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__CNN__s2026",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__CNN__s2027",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__CNN__s2028",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__CNN__s2029",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__Early__s2025",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__Early__s2026",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__Early__s2027",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__Early__s2028",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__Early__s2029",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__Late__s2025",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__Late__s2026",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__Late__s2027",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__Late__s2028",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__Late__s2029",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__Middle__s2025",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__Middle__s2026",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__Middle__s2027",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__Middle__s2028",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__Middle__s2029",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__XGBoost__s2025",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__XGBoost__s2026",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__XGBoost__s2027",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__XGBoost__s2028",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__CV__XGBoost__s2029",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__CNN__s2025",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__CNN__s2026",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__CNN__s2027",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__CNN__s2028",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__CNN__s2029",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__Early__s2025",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__Early__s2026",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__Early__s2027",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__Early__s2028",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__Early__s2029",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__Late__s2025",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__Late__s2026",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__Late__s2027",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__Late__s2028",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__Late__s2029",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__Middle__s2025",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__Middle__s2026",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__Middle__s2027",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__Middle__s2028",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__Middle__s2029",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__XGBoost__s2025",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__XGBoost__s2026",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__XGBoost__s2027",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__XGBoost__s2028",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate05__fair__joint__RE__XGBoost__s2029",
+      "prediction_rows": 3276,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__CNN__s2025",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__CNN__s2026",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__CNN__s2027",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__CNN__s2028",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__CNN__s2029",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__Early__s2025",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__Early__s2026",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__Early__s2027",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__Early__s2028",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__Early__s2029",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__Late__s2025",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__Late__s2026",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__Late__s2027",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__Late__s2028",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__Late__s2029",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__Middle__s2025",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__Middle__s2026",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__Middle__s2027",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__Middle__s2028",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__Middle__s2029",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__XGBoost__s2025",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__XGBoost__s2026",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__XGBoost__s2027",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__XGBoost__s2028",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CC__XGBoost__s2029",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__CNN__s2025",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__CNN__s2026",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__CNN__s2027",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__CNN__s2028",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__CNN__s2029",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__Early__s2025",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__Early__s2026",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__Early__s2027",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__Early__s2028",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__Early__s2029",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__Late__s2025",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__Late__s2026",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__Late__s2027",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__Late__s2028",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__Late__s2029",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__Middle__s2025",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__Middle__s2026",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__Middle__s2027",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__Middle__s2028",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__Middle__s2029",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__XGBoost__s2025",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__XGBoost__s2026",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__XGBoost__s2027",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__XGBoost__s2028",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__CV__XGBoost__s2029",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__CNN__s2025",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__CNN__s2026",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__CNN__s2027",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__CNN__s2028",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__CNN__s2029",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__Early__s2025",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__Early__s2026",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__Early__s2027",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__Early__s2028",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__Early__s2029",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__Late__s2025",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__Late__s2026",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__Late__s2027",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__Late__s2028",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__Late__s2029",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__Middle__s2025",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__Middle__s2026",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__Middle__s2027",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__Middle__s2028",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__Middle__s2029",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__XGBoost__s2025",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__XGBoost__s2026",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__XGBoost__s2027",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__XGBoost__s2028",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "rate1__fair__joint__RE__XGBoost__s2029",
+      "prediction_rows": 259,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__CNN__s2025",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__CNN__s2026",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__CNN__s2027",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__CNN__s2028",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__CNN__s2029",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__Early__s2025",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__Early__s2026",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__Early__s2027",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__Early__s2028",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__Early__s2029",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__Late__s2025",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__Late__s2026",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__Late__s2027",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__Late__s2028",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__Late__s2029",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__Middle__s2025",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__Middle__s2026",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__Middle__s2027",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__Middle__s2028",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__Middle__s2029",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__XGBoost__s2025",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__XGBoost__s2026",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__XGBoost__s2027",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__XGBoost__s2028",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CC__XGBoost__s2029",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__CNN__s2025",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__CNN__s2026",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__CNN__s2027",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__CNN__s2028",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__CNN__s2029",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__Early__s2025",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__Early__s2026",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__Early__s2027",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__Early__s2028",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__Early__s2029",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__Late__s2025",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__Late__s2026",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__Late__s2027",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__Late__s2028",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__Late__s2029",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__Middle__s2025",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__Middle__s2026",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__Middle__s2027",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__Middle__s2028",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__Middle__s2029",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__XGBoost__s2025",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__XGBoost__s2026",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__XGBoost__s2027",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__XGBoost__s2028",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__CV__XGBoost__s2029",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__CNN__s2025",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__CNN__s2026",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__CNN__s2027",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__CNN__s2028",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__CNN__s2029",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__Early__s2025",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__Early__s2026",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__Early__s2027",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__Early__s2028",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__Early__s2029",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__Late__s2025",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__Late__s2026",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__Late__s2027",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__Late__s2028",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__Late__s2029",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__Middle__s2025",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__Middle__s2026",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__Middle__s2027",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__Middle__s2028",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__Middle__s2029",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__XGBoost__s2025",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__XGBoost__s2026",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__XGBoost__s2027",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__XGBoost__s2028",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp35__fair__joint__RE__XGBoost__s2029",
+      "prediction_rows": 1110,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__CNN__s2025",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__CNN__s2026",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__CNN__s2027",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__CNN__s2028",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__CNN__s2029",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__Early__s2025",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__Early__s2026",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__Early__s2027",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__Early__s2028",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__Early__s2029",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__Late__s2025",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__Late__s2026",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__Late__s2027",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__Late__s2028",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__Late__s2029",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__Middle__s2025",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__Middle__s2026",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__Middle__s2027",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__Middle__s2028",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__Middle__s2029",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__XGBoost__s2025",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__XGBoost__s2026",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__XGBoost__s2027",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__XGBoost__s2028",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CC__XGBoost__s2029",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__CNN__s2025",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__CNN__s2026",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__CNN__s2027",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__CNN__s2028",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__CNN__s2029",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__Early__s2025",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__Early__s2026",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__Early__s2027",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__Early__s2028",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__Early__s2029",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__Late__s2025",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__Late__s2026",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__Late__s2027",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__Late__s2028",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__Late__s2029",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__Middle__s2025",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__Middle__s2026",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__Middle__s2027",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__Middle__s2028",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__Middle__s2029",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__XGBoost__s2025",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__XGBoost__s2026",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__XGBoost__s2027",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__XGBoost__s2028",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__CV__XGBoost__s2029",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__CNN__s2025",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__CNN__s2026",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__CNN__s2027",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__CNN__s2028",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__CNN__s2029",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__Early__s2025",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__Early__s2026",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__Early__s2027",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__Early__s2028",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__Early__s2029",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__Late__s2025",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__Late__s2026",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__Late__s2027",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__Late__s2028",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__Late__s2029",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__Middle__s2025",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__Middle__s2026",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__Middle__s2027",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__Middle__s2028",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__Middle__s2029",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__XGBoost__s2025",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__XGBoost__s2026",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__XGBoost__s2027",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__XGBoost__s2028",
+      "prediction_rows": 15752,
+      "verified": true
+    },
+    {
+      "run_id": "temp45__fair__joint__RE__XGBoost__s2029",
+      "prediction_rows": 15752,
+      "verified": true
+    }
+  ],
+  "literature_runs": 95,
+  "benchmark_pairs": 42,
+  "archive_hashes_verified": true
+}

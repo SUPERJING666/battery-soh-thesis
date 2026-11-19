@@ -1,0 +1,20 @@
+{
+  "run_id": "holdout__fair__joint__CV__NN__s2025",
+  "stage": "CV",
+  "model": "NN",
+  "device": "cpu",
+  "batch_size": 1,
+  "warmup": 20,
+  "repeats": 200,
+  "parameters": 701,
+  "serialized_bytes": 18624,
+  "process_baseline_rss_bytes": 673353728,
+  "process_peak_rss_bytes": 673681408,
+  "rss_increment_bytes": 327680,
+  "gpu_peak_allocated_bytes": null,
+  "forward_median_ms": 0.027499976567924023,
+  "forward_p95_ms": 0.07033495348878203,
+  "preprocessing_and_forward_median_ms": 0.9244999964721501,
+  "preprocessing_and_forward_p95_ms": 1.463599968701601,
+  "structure_summary": "701 parameters"
+}

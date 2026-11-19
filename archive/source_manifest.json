@@ -1,0 +1,758 @@
+[
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\2-数据分析\\循环分析.ipynb",
+    "archive": "archive\\submission\\2-数据分析\\循环分析.ipynb",
+    "sha256": "6d84411a64747f9658479bdd8aa1eebfe8e4c8788e0375ce6d3294d49a170e81",
+    "bytes": 96834
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\2-数据分析\\衰退曲线.ipynb",
+    "archive": "archive\\submission\\2-数据分析\\衰退曲线.ipynb",
+    "sha256": "0e5105849fdb48e49f425d37044b72286682208fa2adefe4398dd5ede0e500a7",
+    "bytes": 2118352
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\3-HI\\斯皮尔曼相关系数.csv",
+    "archive": "archive\\submission\\3-HI\\斯皮尔曼相关系数.csv",
+    "sha256": "07105502e695913158d192313eea7d2328133d557d7f904ee5302f71c42db570",
+    "bytes": 523
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\3-HI\\特征分析.ipynb",
+    "archive": "archive\\submission\\3-HI\\特征分析.ipynb",
+    "sha256": "0295f01d0a97c5466fef7601064cb3cc21cc995ab2060da67e88d3610f556dca",
+    "bytes": 528405
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\3-HI\\特征提取.ipynb",
+    "archive": "archive\\submission\\3-HI\\特征提取.ipynb",
+    "sha256": "34f0ae0a8bc81cf0d3786e1632948858121e1b1d024698fd98afd6f8f36f2dec",
+    "bytes": 4062
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\3-HI\\皮尔逊相关系数.csv",
+    "archive": "archive\\submission\\3-HI\\皮尔逊相关系数.csv",
+    "sha256": "9a54fe9e0949fafa6156203028a44768c8289741cf5983315aa556ae555d76dc",
+    "bytes": 527
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\dataset_HI_CC.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\dataset_HI_CC.pkl",
+    "sha256": "36c2730956ca2bd80b5dbb9fa4aefc8259a0ef54130c02e4f113ae7cd52e5487",
+    "bytes": 1915836
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\dataset_HI_CV.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\dataset_HI_CV.pkl",
+    "sha256": "fc5b4d60d1130005b9ff714ed74e5b00b4942faaa2ad7e9d025a220202ca6652",
+    "bytes": 1915836
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\dataset_HI_RE.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\dataset_HI_RE.pkl",
+    "sha256": "200e76d28c9c693842e70f356a101eea17e53480d03b709dad336bba7ba0a019",
+    "bytes": 1915836
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CC\\AdaBoost.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CC\\AdaBoost.pkl",
+    "sha256": "668eaf037b7b42deb64fb74e31536902a6fc9011ade466362afd7837f630f546",
+    "bytes": 67737
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CC\\GBDT.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CC\\GBDT.pkl",
+    "sha256": "7e5b60ab46a4f5f35588ed57d3f751c6dc8749f46efe237c8ba670792bf2233a",
+    "bytes": 138262
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CC\\NN.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CC\\NN.pkl",
+    "sha256": "03360e742393ba1ee732f081d76edf71944e611749954dc0cf42522f85014e08",
+    "bytes": 32989
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CC\\result_AdaBoost.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CC\\result_AdaBoost.csv",
+    "sha256": "a3a47efb9f15bd77f84471862814b05637a87f0f202e35ae4a6bd8e50c3ab0cf",
+    "bytes": 300287
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CC\\result_GBDT.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CC\\result_GBDT.csv",
+    "sha256": "ec01a6bcd1323b4f52dc910ac04b6da416d1df40ec9b49335f7b99692e7dd10f",
+    "bytes": 300220
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CC\\result_NN.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CC\\result_NN.csv",
+    "sha256": "bcd86c66df038ff1901e3cd4386a342c2cce25e934bcdec270bb55ae229a77ae",
+    "bytes": 300143
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CC\\result_RF.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CC\\result_RF.csv",
+    "sha256": "ba9562ddad1f2b704b204d9eeeffd27606f96f56476246637d133e932b606f25",
+    "bytes": 300213
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CC\\result_SVR.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CC\\result_SVR.csv",
+    "sha256": "54c14dbc6113ccfee7219ca1053412afd61fdb2360d8bec5be00cbf08e953364",
+    "bytes": 300184
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CC\\result_XGBoost.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CC\\result_XGBoost.csv",
+    "sha256": "9b1c176aa3f531d8d611da893b271c3a7a9f851f409ffb06d040568d59db3935",
+    "bytes": 265649
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CC\\RF.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CC\\RF.pkl",
+    "sha256": "240209fcf64a2b63b1665b1c1401395face73453e4e7c8789e54389155e87b09",
+    "bytes": 165719418
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CC\\SVR.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CC\\SVR.pkl",
+    "sha256": "baf230334cccafc8c51e4a8c26e635e8e0c7cba0a4881ffef22611c1d6b5b57e",
+    "bytes": 2044
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CC\\XGBoost.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CC\\XGBoost.pkl",
+    "sha256": "d306ef39bec8868b0c2ac27a14c0ade262609e278d4b8e590cbe8822aa75bd9d",
+    "bytes": 426969
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CV\\AdaBoost.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CV\\AdaBoost.pkl",
+    "sha256": "aceadee54367b14496b82fa4b06122f1434b94b1874659272cd4a4f6abd17da7",
+    "bytes": 28368
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CV\\GBDT.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CV\\GBDT.pkl",
+    "sha256": "eb08b23b9962a60a7b1d1670b9d38f127cf2b07ae0c00b46fe1c135ae74535af",
+    "bytes": 138982
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CV\\NN.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CV\\NN.pkl",
+    "sha256": "fd50980328d2516da37c2dabe243092c60d2a53237f8433c8cc388ed6ac5e9c2",
+    "bytes": 32989
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CV\\result_AdaBoost.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CV\\result_AdaBoost.csv",
+    "sha256": "884dc160ed7ea1624010fc0067c72ae0c1bfbfac3931823cadb1a5628eb96f5e",
+    "bytes": 300251
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CV\\result_GBDT.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CV\\result_GBDT.csv",
+    "sha256": "a26a90740f2e721d5dc6fd17f1b06e07341c30b791b7c5bbcd5a974594708500",
+    "bytes": 300135
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CV\\result_NN.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CV\\result_NN.csv",
+    "sha256": "1f39b457544c825e25a88c229e82eacccfd4f5bc391220e4ce5293d81c70d109",
+    "bytes": 300166
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CV\\result_RF.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CV\\result_RF.csv",
+    "sha256": "1209c09e50cc033101c11f07c1b49c81786d0ec7153bc2baf5182d32f715aaef",
+    "bytes": 300149
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CV\\result_SVR.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CV\\result_SVR.csv",
+    "sha256": "fe9a37b42804998be8886201f6164c00cfc4b74641144e2b9998a01a8d86fb8a",
+    "bytes": 300200
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CV\\result_XGBoost.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CV\\result_XGBoost.csv",
+    "sha256": "1c4e1a6a439adb3bfdd72883582070cff52bdc7712c81b9d590d2edc2fd359d6",
+    "bytes": 265705
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CV\\RF.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CV\\RF.pkl",
+    "sha256": "8397eaacccf399a2dfe17d3855eb874a209e5bd9aa5629473362018e29bf3e10",
+    "bytes": 165721434
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CV\\SVR.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CV\\SVR.pkl",
+    "sha256": "2fa980423e63e08862f8498930fceb87ba7d5d2f0906049fc984f355e4b5c544",
+    "bytes": 1804
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\CV\\XGBoost.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\CV\\XGBoost.pkl",
+    "sha256": "39ab1c17e229ce386bd8ae2b90eec6a10147e96858ef03241d639c6f2c2642c6",
+    "bytes": 424389
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\RE\\AdaBoost.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\RE\\AdaBoost.pkl",
+    "sha256": "5076e074bc85bb67a6c42cca1c02978fb9deb50d0e4010502fb62ee0e63833f3",
+    "bytes": 67599
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\RE\\GBDT.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\RE\\GBDT.pkl",
+    "sha256": "bd160d033fb1715ed9778d0042c19fc77c7f328c7632df76c3e51fcb0d96af72",
+    "bytes": 135650
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\RE\\NN.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\RE\\NN.pkl",
+    "sha256": "4d494161f8cd8ab265438517cc36e7672b9cda70bd1564c05d088665fb126fa2",
+    "bytes": 23797
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\RE\\result_AdaBoost.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\RE\\result_AdaBoost.csv",
+    "sha256": "2c1cf12ac08df97d894cc4750125c87964e08c5b72e18ff9537a537f60955927",
+    "bytes": 300057
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\RE\\result_GBDT.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\RE\\result_GBDT.csv",
+    "sha256": "2b400fb40f84476eedd1dcbc3aac44e9e602576a5ddb07ef488ce58e7f6b2f8e",
+    "bytes": 300224
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\RE\\result_NN.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\RE\\result_NN.csv",
+    "sha256": "bf56a430985c645a621c7719e9c1cc4d0b9886b59f5c63fb5ec744163656ca7b",
+    "bytes": 300161
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\RE\\result_RF.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\RE\\result_RF.csv",
+    "sha256": "ebe9897c3fdcb27d7a06816e335cce90f3e774c2b85b26a7119d2f3a28123f5d",
+    "bytes": 300192
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\RE\\result_SVR.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\RE\\result_SVR.csv",
+    "sha256": "1cf4d9fb0c1306acad10042454174bd9c1bfbfe58a3d04d4ac2d42f82a725518",
+    "bytes": 300176
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\RE\\result_XGBoost.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\RE\\result_XGBoost.csv",
+    "sha256": "ab621b720dd4fced4dd55cb032e7045b5dbbd0273ec8f658736fe820c93d2e70",
+    "bytes": 265631
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\RE\\RF.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\RE\\RF.pkl",
+    "sha256": "2d96e3b1c211bb9b291e19d7b3830f53863da4a6b415ec2ef3cb1c35f6152f57",
+    "bytes": 165726859
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\RE\\SVR.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\RE\\SVR.pkl",
+    "sha256": "9f37537db9104fbf908e5ae7575d02f748f4b0e406b4a851bf5f32c0cd3552a5",
+    "bytes": 1623
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\models\\RE\\XGBoost.pkl",
+    "archive": "archive\\submission\\4-SOH_Estimation\\models\\RE\\XGBoost.pkl",
+    "sha256": "ba350da5747784db175a8e404896bbebdee5a0b65e355f916bd54974b5e5b77e",
+    "bytes": 409304
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\人工特征SOH估计.ipynb",
+    "archive": "archive\\submission\\4-SOH_Estimation\\人工特征SOH估计.ipynb",
+    "sha256": "569227c1f4201616aebc05a07b6d9960cb5e2e96c5deb7f194ad932e4cb037d2",
+    "bytes": 34342
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\人工特征模型结果\\CC\\CC_模型评价指标.xlsx",
+    "archive": "archive\\submission\\4-SOH_Estimation\\人工特征模型结果\\CC\\CC_模型评价指标.xlsx",
+    "sha256": "7ccfa285094d0d7a4f442675731b1607f7b3875003ae37cc82219ab1390f57b2",
+    "bytes": 5383
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\人工特征模型结果\\CV\\CV_模型评价指标.xlsx",
+    "archive": "archive\\submission\\4-SOH_Estimation\\人工特征模型结果\\CV\\CV_模型评价指标.xlsx",
+    "sha256": "c0b5eb66496ac607d5ca6271a5759a4374f5e319acca48fc1cee05cf9ff046fd",
+    "bytes": 5387
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\人工特征模型结果\\RE\\RE_模型评价指标.xlsx",
+    "archive": "archive\\submission\\4-SOH_Estimation\\人工特征模型结果\\RE\\RE_模型评价指标.xlsx",
+    "sha256": "3ee0ddd43bf5c859b115ac2f266bab3536fa0343b5867432c3762597b2fd41a3",
+    "bytes": 5376
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\人工特征模型结果\\画图0314.py",
+    "archive": "archive\\submission\\4-SOH_Estimation\\人工特征模型结果\\画图0314.py",
+    "sha256": "74b421665fbe6828ddb42d4eca70ec6d2b8612cb9fa6d465907cb5c42847e779",
+    "bytes": 7409
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\人工特征筛选.ipynb",
+    "archive": "archive\\submission\\4-SOH_Estimation\\人工特征筛选.ipynb",
+    "sha256": "f858bd03bb78022f88651f071f43eb1792773edd138ba5d454f72fc79973eccd",
+    "bytes": 6430
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\归一化后相关系数和.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\归一化后相关系数和.csv",
+    "sha256": "11936ce366b658ba1a5c360f752722b3700aa019592061c0fe65ab72d75728af",
+    "bytes": 513
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\模型评价.ipynb",
+    "archive": "archive\\submission\\4-SOH_Estimation\\模型评价.ipynb",
+    "sha256": "892c9bd0c2972968a7a4d2366e2ab4de8552d7f227678302963e2b764792e8e1",
+    "bytes": 3970
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\深度学习SOH估计.ipynb",
+    "archive": "archive\\submission\\4-SOH_Estimation\\深度学习SOH估计.ipynb",
+    "sha256": "799c0b202479fad545de77d9d1cdb3eacc45280ea40f2170416a48c63ee1e755",
+    "bytes": 317871
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\深度学习模型结果\\all_models_evaluation_results.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\深度学习模型结果\\all_models_evaluation_results.csv",
+    "sha256": "21f0f90a7e3c5509ec3fb6b46b893d00c300fc2fad6683a57f306bf541e9acb9",
+    "bytes": 264
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\深度学习模型结果\\model_CC.h5",
+    "archive": "archive\\submission\\4-SOH_Estimation\\深度学习模型结果\\model_CC.h5",
+    "sha256": "b8d1e0d71573ed458508a55ed6d7e1d3bae207800f3cf8e271ef8de5df9e3e90",
+    "bytes": 301296
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\深度学习模型结果\\model_CV.h5",
+    "archive": "archive\\submission\\4-SOH_Estimation\\深度学习模型结果\\model_CV.h5",
+    "sha256": "8e8e0429365404cac4753fbe06731c8f1376c1aed52132fe38e0c61922f11b2b",
+    "bytes": 301296
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\深度学习模型结果\\model_RE.h5",
+    "archive": "archive\\submission\\4-SOH_Estimation\\深度学习模型结果\\model_RE.h5",
+    "sha256": "64022520ed1be8b3289d30d0e871796703cca4fea968290cb9fe6c8c12c54041",
+    "bytes": 301296
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\深度学习模型结果\\result_CC.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\深度学习模型结果\\result_CC.csv",
+    "sha256": "58e0af1da2224fe288344b496008fd6b1896a546f5f4621cd62475701d3f2324",
+    "bytes": 192464
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\深度学习模型结果\\result_CV.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\深度学习模型结果\\result_CV.csv",
+    "sha256": "5303f66d802c4e2adfc436bff2369f397b7a688d82bea9dab16c88dd96ec6232",
+    "bytes": 192231
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\深度学习模型结果\\result_RE.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\深度学习模型结果\\result_RE.csv",
+    "sha256": "ada621563968d1b54ae58d91f76f1b1cc59acb3cda19bf64738a5fd559604570",
+    "bytes": 192409
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\深度学习模型结果\\指标获取.py",
+    "archive": "archive\\submission\\4-SOH_Estimation\\深度学习模型结果\\指标获取.py",
+    "sha256": "b243a24672038d661f2e5f3a85becd04e5adc53289b0fced3c3438a994ada732",
+    "bytes": 2682
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\深度学习模型结果\\画图.py",
+    "archive": "archive\\submission\\4-SOH_Estimation\\深度学习模型结果\\画图.py",
+    "sha256": "63b35807048e4eaa9229d49e37e2ec04d7ead1cbbeacc0fd3349a336e97c676e",
+    "bytes": 5246
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\结果综合对比\\merged_all_models_results.csv",
+    "archive": "archive\\submission\\4-SOH_Estimation\\结果综合对比\\merged_all_models_results.csv",
+    "sha256": "636ab2109ab053c6c13cb6acfbeabd5353bcddeafa7b00e918fc590d7d810f99",
+    "bytes": 1794
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\4-SOH_Estimation\\结果综合对比\\结果对比.py",
+    "archive": "archive\\submission\\4-SOH_Estimation\\结果综合对比\\结果对比.py",
+    "sha256": "f6b17f90e709dfc211f4c5b707251bd2c24be2647e6bc7bfedf4ece85f564abe",
+    "bytes": 5965
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\data_CC.pkl",
+    "archive": "archive\\submission\\5-fusion\\data_CC.pkl",
+    "sha256": "bff058442e70dcbeb9d3a5d6f05a73a2c108cb9bd545fcacc7fa085518b7fdb8",
+    "bytes": 29801867
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\data_CV.pkl",
+    "archive": "archive\\submission\\5-fusion\\data_CV.pkl",
+    "sha256": "b3b5a9c54583c98c459ef69db143034c7ac8115d61b68b7375290d234f17804d",
+    "bytes": 29801867
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\data_RE.pkl",
+    "archive": "archive\\submission\\5-fusion\\data_RE.pkl",
+    "sha256": "5b727dbd6de95c94c5c3a75aaf340db458a16f8be6299333e401a143f4567e18",
+    "bytes": 29801867
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\HI.pkl",
+    "archive": "archive\\submission\\5-fusion\\HI.pkl",
+    "sha256": "790d1ab1e476d6b7ffd2702c5078c301d76e95116fa428323acb18d9925855fd",
+    "bytes": 8436571
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\HI_CC.pkl",
+    "archive": "archive\\submission\\5-fusion\\HI_CC.pkl",
+    "sha256": "3a5fdf2969dae04e89d6aff388d84ccac92acd5119386bd9e768c1cffcdb125d",
+    "bytes": 1915344
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\HI_CV.pkl",
+    "archive": "archive\\submission\\5-fusion\\HI_CV.pkl",
+    "sha256": "141d44d0f182f55f19df66b4cf72c2b6d191d41af9b3bdd54c1890d7ca7571a8",
+    "bytes": 1915344
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\HI_RE.pkl",
+    "archive": "archive\\submission\\5-fusion\\HI_RE.pkl",
+    "sha256": "25be95b72f010fde37ace75c00bc66e0ec1f4500a28a8042243a95cdf9fe4f47",
+    "bytes": 1915344
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\model\\early\\model_CC.h5",
+    "archive": "archive\\submission\\5-fusion\\model\\early\\model_CC.h5",
+    "sha256": "53530d41fd1e079f0b729a849ddb7dcf524e4987f59c23af2e6413ed792b419f",
+    "bytes": 301096
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\model\\early\\model_CV.h5",
+    "archive": "archive\\submission\\5-fusion\\model\\early\\model_CV.h5",
+    "sha256": "d87ac0fad4b787793f6a7b4d74046f208bb631da97d2cfe2e739247e3d4b4d9a",
+    "bytes": 299544
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\model\\early\\model_RE.h5",
+    "archive": "archive\\submission\\5-fusion\\model\\early\\model_RE.h5",
+    "sha256": "d15facf9b95285fecbcc4c60cdb091bdcf1efa003ee12243d5eea8776aa7eadd",
+    "bytes": 299600
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\model_evaluation_results.xlsx",
+    "archive": "archive\\submission\\5-fusion\\model_evaluation_results.xlsx",
+    "sha256": "90ff55878ce3c47676774b64f4303a6fc279b4a97eb24cac656f0bfddb6f5209",
+    "bytes": 5608
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\rusult\\early\\model_CC.pkl",
+    "archive": "archive\\submission\\5-fusion\\rusult\\early\\model_CC.pkl",
+    "sha256": "12447086129b0113e51e9e9dc2b6ff0a4ed426c6ef4fff36706456113351ae2b",
+    "bytes": 69412
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\rusult\\early\\result_CC.csv",
+    "archive": "archive\\submission\\5-fusion\\rusult\\early\\result_CC.csv",
+    "sha256": "2d7e9ee26eb4c72a68a865beace9fbec4ad4ca666531e0c5e791ca716506ad0d",
+    "bytes": 265691
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\rusult\\early\\result_CV.csv",
+    "archive": "archive\\submission\\5-fusion\\rusult\\early\\result_CV.csv",
+    "sha256": "4580f85c35dd4cf4f5106e62cade4821c3eff962ce9e9c051200445aed3aef8a",
+    "bytes": 265677
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\rusult\\early\\result_RE.csv",
+    "archive": "archive\\submission\\5-fusion\\rusult\\early\\result_RE.csv",
+    "sha256": "61d9041a9c2c803505448bac923a7e7ead5bc11e02afec5d0c443bb315d1c376",
+    "bytes": 904620
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\rusult\\late\\model_CC.h5",
+    "archive": "archive\\submission\\5-fusion\\rusult\\late\\model_CC.h5",
+    "sha256": "67690f11e87c9777590732f5a0b103922e3f35c4c012a2f98a0ef03aa5be01f4",
+    "bytes": 250712
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\rusult\\late\\model_CV.h5",
+    "archive": "archive\\submission\\5-fusion\\rusult\\late\\model_CV.h5",
+    "sha256": "e5ef0271619a39fc1447acf8aa12cb25597815654f93b8e41ce704da11a40ad4",
+    "bytes": 250712
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\rusult\\late\\model_RE.h5",
+    "archive": "archive\\submission\\5-fusion\\rusult\\late\\model_RE.h5",
+    "sha256": "0f31d43a902f493cb6fe8adfe744ac993bb28f6767cfa68ad474cf85f6f9c166",
+    "bytes": 250704
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\rusult\\late\\result_CC.csv",
+    "archive": "archive\\submission\\5-fusion\\rusult\\late\\result_CC.csv",
+    "sha256": "31c5684e99ecb7ef74fb1f62c19b6953d74c29bda0468a5455970094db52c690",
+    "bytes": 265696
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\rusult\\late\\result_CV.csv",
+    "archive": "archive\\submission\\5-fusion\\rusult\\late\\result_CV.csv",
+    "sha256": "503191907f5f4f7bcfb4f26323162411dceb8ab78a8d29628849157792bc173a",
+    "bytes": 265586
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\rusult\\late\\result_RE.csv",
+    "archive": "archive\\submission\\5-fusion\\rusult\\late\\result_RE.csv",
+    "sha256": "512fd05b30fa8c27bdf43ed945ec5857b66a0958cae14131822c8aa53480c70b",
+    "bytes": 265632
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\rusult\\middle\\model_CC.h5",
+    "archive": "archive\\submission\\5-fusion\\rusult\\middle\\model_CC.h5",
+    "sha256": "b85de01a6ba2059850d8ece999f52aa7d94177cd6a0f8aa441953c424a3f2c99",
+    "bytes": 287456
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\rusult\\middle\\model_CV.h5",
+    "archive": "archive\\submission\\5-fusion\\rusult\\middle\\model_CV.h5",
+    "sha256": "108306665cb5302604972077daf623a93225a13fb66a0649949efcc10fadd6a4",
+    "bytes": 287096
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\rusult\\middle\\model_RE.h5",
+    "archive": "archive\\submission\\5-fusion\\rusult\\middle\\model_RE.h5",
+    "sha256": "91b6c601c05f6b4990031a3cf51a97ca83d07825936015cfcceab858e474b900",
+    "bytes": 287352
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\rusult\\middle\\result_CC.csv",
+    "archive": "archive\\submission\\5-fusion\\rusult\\middle\\result_CC.csv",
+    "sha256": "5f329d9300a4f3a0df40da3c4887e792a13359e3490d468c496737187e26edb9",
+    "bytes": 265666
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\rusult\\middle\\result_CV.csv",
+    "archive": "archive\\submission\\5-fusion\\rusult\\middle\\result_CV.csv",
+    "sha256": "7762dd30f477de94d5c63452ad046e7985b3232c923bdfa36824ec485b998fd9",
+    "bytes": 265675
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\rusult\\middle\\result_RE.csv",
+    "archive": "archive\\submission\\5-fusion\\rusult\\middle\\result_RE.csv",
+    "sha256": "eaec297cee13ee42a10f81bbc7538dad0414598c4ced96461dc39af7e7964474",
+    "bytes": 265639
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\rusult\\画图.ipynb",
+    "archive": "archive\\submission\\5-fusion\\rusult\\画图.ipynb",
+    "sha256": "5525e57591738037a2342d013402f244971caf7dfc25b9de6c51efec732cf36e",
+    "bytes": 3203
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\中期融合.ipynb",
+    "archive": "archive\\submission\\5-fusion\\中期融合.ipynb",
+    "sha256": "5eab52bc661e173930be3dcd7390900a970689c1f559c137eb4e526579604280",
+    "bytes": 12390
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\数据集生成.ipynb",
+    "archive": "archive\\submission\\5-fusion\\数据集生成.ipynb",
+    "sha256": "0e2e354cb1f24a63f9e5a668a9a65026e5634931dc9b4a0fe8bdada78cc6437f",
+    "bytes": 5534
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\早期融合.ipynb",
+    "archive": "archive\\submission\\5-fusion\\早期融合.ipynb",
+    "sha256": "720b8ec7d9e9cbc55c4e1641aa6c6c3043d9ffe5320a2ec65c387c366f76f40b",
+    "bytes": 45538
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\晚期融合.ipynb",
+    "archive": "archive\\submission\\5-fusion\\晚期融合.ipynb",
+    "sha256": "63a7c65499eec6a60371d6a47300b507bc6613fc3302ec60e6aa16e514919f5e",
+    "bytes": 10234
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\5-fusion\\误差指标获取.py",
+    "archive": "archive\\submission\\5-fusion\\误差指标获取.py",
+    "sha256": "d4342db7e4cadf2a05e3d93ad50267fb44d9c1ca43ff90a2326cf4aa53b1478a",
+    "bytes": 2315
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\6-结果对比\\merged_results.xlsx",
+    "archive": "archive\\submission\\6-结果对比\\merged_results.xlsx",
+    "sha256": "12925277591bd4818e0f1381692212577fc01b29846d440097be5aa025bd6d2c",
+    "bytes": 6034
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\6-结果对比\\对比最优人工特征_CNN_融合.py",
+    "archive": "archive\\submission\\6-结果对比\\对比最优人工特征_CNN_融合.py",
+    "sha256": "85d57401eb150af0209c81f29d42d398eb0005c910d05e742b886728541df969",
+    "bytes": 6548
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\7-transfer\\models\\model_CC.h5",
+    "archive": "archive\\submission\\7-transfer\\models\\model_CC.h5",
+    "sha256": "31b74c9de25eba3619eb5ba45d6026cc95326bd45134cd0cf6aed728cf67bf27",
+    "bytes": 268792
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\7-transfer\\models\\model_CV.h5",
+    "archive": "archive\\submission\\7-transfer\\models\\model_CV.h5",
+    "sha256": "0d441e260a333cdc8f678bdf3d543c59b2e07ed47c95d6ac428acc79f97e3bd5",
+    "bytes": 314352
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\7-transfer\\models\\model_RE.h5",
+    "archive": "archive\\submission\\7-transfer\\models\\model_RE.h5",
+    "sha256": "edd4ec41669bf53145b5310125b47fbd1604f01d0241c3a1eecdf9eed075993b",
+    "bytes": 268776
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\8-explain\\data\\CC_late.pkl",
+    "archive": "archive\\submission\\8-explain\\data\\CC_late.pkl",
+    "sha256": "26417cf88343ecc4db8d75f6fed76bb377360422396fd1160356acc9d55df3fd",
+    "bytes": 28361002
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\8-explain\\data\\CV_early.pkl",
+    "archive": "archive\\submission\\8-explain\\data\\CV_early.pkl",
+    "sha256": "256f15e5c61ff260c3cd8078937db5383ece966c29fa0b0120aa8df6a3308eea",
+    "bytes": 28348789
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\8-explain\\data\\expected_value_cc.pkl",
+    "archive": "archive\\submission\\8-explain\\data\\expected_value_cc.pkl",
+    "sha256": "5e35f85e70ae7feb3ef4b5e9c7d0a4aa2dc829c7fb26d333a1a50ec4a625da33",
+    "bytes": 211
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\8-explain\\data\\expected_value_re.pkl",
+    "archive": "archive\\submission\\8-explain\\data\\expected_value_re.pkl",
+    "sha256": "d335b1dcc794f1da2c1dd4620eaaf32ca02e3b13cb37dac0456fcbb19edbf0a7",
+    "bytes": 211
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\8-explain\\data\\explainer.pkl",
+    "archive": "archive\\submission\\8-explain\\data\\explainer.pkl",
+    "sha256": "df8f11c75b6c2759ca7641fe28c70ac6ad3388ab95635adffcab66a771b904b8",
+    "bytes": 202516
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\8-explain\\data\\RE_late.pkl",
+    "archive": "archive\\submission\\8-explain\\data\\RE_late.pkl",
+    "sha256": "eafa61a0fc80ee00e103a94acd83ec533ca3cb4afadf045cec661ab331b93ef8",
+    "bytes": 28361002
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\8-explain\\data\\shap_values_cc.pkl",
+    "archive": "archive\\submission\\8-explain\\data\\shap_values_cc.pkl",
+    "sha256": "b9769c2337b8c8023fddc3d540057b74704a62e744a6b59c541e6690fd0ee0ba",
+    "bytes": 5042136
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\8-explain\\data\\shap_values_cv.pkl",
+    "archive": "archive\\submission\\8-explain\\data\\shap_values_cv.pkl",
+    "sha256": "79ea082ac171ef473c9654c263436734cb6c4b95fd3bcc85dfa7a7b3acb5f671",
+    "bytes": 5042082
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\8-explain\\data\\shap_values_re.pkl",
+    "archive": "archive\\submission\\8-explain\\data\\shap_values_re.pkl",
+    "sha256": "458530222c091e362a830557a5dad2c8fd896f9b9279ad08c545f6f8fd74b097",
+    "bytes": 5042136
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\8-explain\\models\\explainer.h5",
+    "archive": "archive\\submission\\8-explain\\models\\explainer.h5",
+    "sha256": "5d326e08d1d18c88a8c5cc1d0029d10e32152ec9722665d7d0333e3df4ef2de3",
+    "bytes": 96
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\8-explain\\models\\model_CC.h5",
+    "archive": "archive\\submission\\8-explain\\models\\model_CC.h5",
+    "sha256": "31b74c9de25eba3619eb5ba45d6026cc95326bd45134cd0cf6aed728cf67bf27",
+    "bytes": 268792
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\8-explain\\models\\model_CV.h5",
+    "archive": "archive\\submission\\8-explain\\models\\model_CV.h5",
+    "sha256": "0d441e260a333cdc8f678bdf3d543c59b2e07ed47c95d6ac428acc79f97e3bd5",
+    "bytes": 314352
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\8-explain\\models\\model_RE.h5",
+    "archive": "archive\\submission\\8-explain\\models\\model_RE.h5",
+    "sha256": "edd4ec41669bf53145b5310125b47fbd1604f01d0241c3a1eecdf9eed075993b",
+    "bytes": 268776
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\8-explain\\shap解释.ipynb",
+    "archive": "archive\\submission\\8-explain\\shap解释.ipynb",
+    "sha256": "e4e1fe84cc762c11efc56a7017c45ceac380c27f69c180d73f68b13dda92def0",
+    "bytes": 205293
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\8-explain\\test.ipynb",
+    "archive": "archive\\submission\\8-explain\\test.ipynb",
+    "sha256": "259e9aa6539de73e8c4875ec6cea894e3f3ff10fdac632467517cc2096209811",
+    "bytes": 7620
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\8-explain\\可解释作图.ipynb",
+    "archive": "archive\\submission\\8-explain\\可解释作图.ipynb",
+    "sha256": "7ef2bad3165abac5a0617249210b7f174cbb17bdf13024a0c309d67cdc369d00",
+    "bytes": 181340
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\8-explain\\数据处理.ipynb",
+    "archive": "archive\\submission\\8-explain\\数据处理.ipynb",
+    "sha256": "021edd09cec82f225fb3eb42feda5a222b5ccd140e1af1acc8d9bdc9d975573b",
+    "bytes": 6562
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\data\\CC_and_CV_1500_SAMPLE_10.pkl",
+    "archive": "archive\\submission\\data\\CC_and_CV_1500_SAMPLE_10.pkl",
+    "sha256": "0d0a19f0e4b110cf4a0e0d34406fd08afb0c00ab2b64b165114985de22d32e73",
+    "bytes": 54163111
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\data\\CC_and_REST_1500_SAMPLE_10.pkl",
+    "archive": "archive\\submission\\data\\CC_and_REST_1500_SAMPLE_10.pkl",
+    "sha256": "1bbd532370d8c731aa569292ec92abd86851d704d863a025d3dedd971da7894f",
+    "bytes": 54164386
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\data\\CV_and_REST_1500_SAMPLE_10.pkl",
+    "archive": "archive\\submission\\data\\CV_and_REST_1500_SAMPLE_10.pkl",
+    "sha256": "042a5475a85ddb6490cf5b879d7c254fa03ac49d5832dada497a663192c2b847",
+    "bytes": 54163246
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\data\\data.csv",
+    "archive": "archive\\submission\\data\\data.csv",
+    "sha256": "77815f871014da9bd38e06fe55c385d9e1a8952f825b335fae9387cb81b579c4",
+    "bytes": 181867278
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\data\\data.pkl",
+    "archive": "archive\\submission\\data\\data.pkl",
+    "sha256": "186fb586cd247928eaf2ca49d9612dc059a3d9861cd937cd89962ec03d27c9bb",
+    "bytes": 81039794
+  },
+  {
+    "source": "G:\\boshi\\1_boyi\\3_ziji\\My_program\\long\\4\\code\\data\\HI.pkl",
+    "archive": "archive\\submission\\data\\HI.pkl",
+    "sha256": "c7c2f41aed790ad31971edf4701876aa46aa7a77940830e8f93469e64ea03d14",
+    "bytes": 8258385
+  }
+]

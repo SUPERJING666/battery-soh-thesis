@@ -1,0 +1,107 @@
+{
+  "run_id": "ref15__rate05__CC__s2029",
+  "reference": 15,
+  "stage": "CC",
+  "seed": 2029,
+  "scenario": "rate05",
+  "limitations": [
+    "Wasserstein source selection + TCN/BiLSTM/attention is a public-description comparator, not original SSTL reproduction.",
+    "Uses only unlabeled target adaptation cells for distribution distances; no target labels used in fitting.",
+    "Closest 50% of source training cells selected; TCN 16 channels and BiLSTM 16 units are explicit local choices.",
+    "No unknown original target fine-tuning schedule is invented."
+  ],
+  "adaptation_ids": [
+    "25-05_1-#6",
+    "25-05_1-#11",
+    "25-05_1-#18"
+  ],
+  "test_ids": [
+    "25-05_1-#5",
+    "25-05_1-#4",
+    "25-05_1-#13",
+    "25-05_1-#16",
+    "25-05_1-#19",
+    "25-05_1-#2",
+    "25-05_1-#10",
+    "25-05_1-#14",
+    "25-05_1-#17",
+    "25-05_1-#15",
+    "25-05_1-#1",
+    "25-05_1-#8",
+    "25-05_1-#7",
+    "25-05_1-#12",
+    "25-05_1-#3",
+    "25-05_1-#9"
+  ],
+  "selected_source_ids": [
+    "25-1_1-#9",
+    "25-1_1-#2",
+    "25-1_1-#1",
+    "25-1_1-#3",
+    "25-1_1-#4",
+    "25-1_1-#6"
+  ],
+  "source_distance_ranking": [
+    [
+      1.878529478406705,
+      "25-025_1-#1"
+    ],
+    [
+      1.9194116849054916,
+      "25-025_1-#4"
+    ],
+    [
+      1.918803623338755,
+      "25-025_1-#5"
+    ],
+    [
+      1.8606972772638724,
+      "25-025_1-#6"
+    ],
+    [
+      1.8402936366227847,
+      "25-025_1-#7"
+    ],
+    [
+      1.2959612370876912,
+      "25-1_1-#1"
+    ],
+    [
+      1.287704729248732,
+      "25-1_1-#2"
+    ],
+    [
+      1.4108269884223248,
+      "25-1_1-#3"
+    ],
+    [
+      1.4643251427872823,
+      "25-1_1-#4"
+    ],
+    [
+      1.5302431068123765,
+      "25-1_1-#5"
+    ],
+    [
+      1.4793607988786859,
+      "25-1_1-#6"
+    ],
+    [
+      1.5749242826118721,
+      "25-1_1-#8"
+    ],
+    [
+      1.2087864541831632,
+      "25-1_1-#9"
+    ]
+  ],
+  "source_code_sha256": "fb2f2da2e55bf6de7f06d0702e3f1003994b9555290e14b8968923ab4472dbea",
+  "status": "adapted_public_description_not_exact_reproduction",
+  "metrics": {
+    "n": 2746,
+    "mse": 0.09033999888458934,
+    "rmse_pp": 30.056613063449007,
+    "mae_pp": 29.784581440087234,
+    "r2": -33.08778709812473
+  }
+}

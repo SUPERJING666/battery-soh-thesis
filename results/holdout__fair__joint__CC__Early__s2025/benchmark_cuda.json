@@ -1,0 +1,19 @@
+{
+  "run_id": "holdout__fair__joint__CC__Early__s2025",
+  "stage": "CC",
+  "model": "Early",
+  "device": "cuda",
+  "batch_size": 1,
+  "warmup": 20,
+  "repeats": 200,
+  "parameters": 19329,
+  "serialized_bytes": 81534,
+  "process_baseline_rss_bytes": 673587200,
+  "process_peak_rss_bytes": 1040703488,
+  "rss_increment_bytes": 367116288,
+  "gpu_peak_allocated_bytes": 36084736,
+  "forward_median_ms": 0.8280000183731318,
+  "forward_p95_ms": 1.4556199632352216,
+  "preprocessing_and_forward_median_ms": 2.0036500063724816,
+  "preprocessing_and_forward_p95_ms": 2.9917300009401506
+}
